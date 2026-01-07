@@ -12,3 +12,8 @@ Cofiguration Levels
 1. ```System (all users)```
 2. ```Global (current user)```
 3. ```Local (current repo)```
+
+Now I am learning ```pull``` command which is the combination of ```fetch``` and ```merge``` command
+```bash
+git pull origin
+```
