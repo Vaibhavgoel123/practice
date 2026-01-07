@@ -17,3 +17,7 @@ Now I am learning ```pull``` command which is the combination of ```fetch``` and
 ```bash
 git pull origin
 ```
+Now we are talking about ```push``` operation in git to push the changes done in local machine to remote server.
+```bash
+git push origin
+```
